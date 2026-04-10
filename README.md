@@ -29,20 +29,26 @@ Private‑sector activity has consistently driven long‑run construction output
 Commercial construction represents the largest share of output across both public and private sectors, but is driven by fundamentally different asset types.
 - Private commercial output is predominantly office‑led
 - Public commercial output is concentrated in education and schools’ delivery
+<img width="1186" height="664" alt="Screenshot 2026-04-05 193227" src="https://github.com/user-attachments/assets/21c08872-e039-4a08-bdfb-0814b14723d9" />
+
 
 # Structural reallocation of investment within industrial and infrastructure activity
 Industrial and infrastructure construction activity has undergone sustained change over the analysis period, reflecting shifting public and private investment priorities.
 - Shifts in priority toward warehouses in the private sector, alongside reduced public investment in oil, steel, and coal new work
 - Sewerage‑related infrastructure dominated activity up to circa 2014
 - Electricity‑focused infrastructure has increased over the past decade
-- The private‑sector share of infrastructure output has grown since the early 2000s 
+- The private‑sector share of infrastructure output has grown since the early 2000s
+<img width="1149" height="598" alt="Screenshot 2026-04-07 025925" src="https://github.com/user-attachments/assets/e568ee79-f5b4-434b-aa50-175cdafcfc65" />
+
  
 # Delivery capacity is concentrated despite a fragmented firm base
 Although the construction industry comprises many small firms, delivery capacity and output are concentrated among firms with larger workforces.
 - Firm counts are heavily skewed toward small workforce bands
 - Output is disproportionately delivered by large‑workforce firms
 - Delivery capacity is functionally concentrated by trade and responsibility
-  
+<img width="1183" height="342" alt="Screenshot 2026-04-07 030403" src="https://github.com/user-attachments/assets/b1e842b9-8262-401a-b38e-b87ac166d333" />
+
+
 # Recommendations
 - Focus early‑stage advisory effort where risk is structurally concentrated
 
